@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "qolmod:block/fake_diamond_ore" }
+  }
+}

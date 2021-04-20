@@ -1,0 +1,21 @@
+{
+  "item.qolmod.light_glove": "Light Glove",
+  "block.qolmod.cum_block": "Cum Block",
+  "block.qolmod.fake_diamond_ore": "diamonds yep diamonds indeeed yep yep",
+  "block.qolmod.infuser": "Infuser",
+  "block.qolmod.ultra_infuser": "Ultra Infuser",
+  "item.qolmod.fake_diamond": "diamond lol",
+  "item.qolmod.obamium": "Obamium",
+  "item.qolmod.obamium_sword": "Obamium Sword",
+  "item.qolmod.obamium_pickaxe": "Obamium Pickaxe",
+  "item.qolmod.ender_shield": "Ender Shield",
+  "item.qolmod.police_spawn_egg": "Police Spawn Egg",
+  "item.qolmod.sink_spawn_egg": "Sink Spawn Egg",
+  "death.attack.sinking": "%s sank in the cum",
+  "death.attack.infuseraccident": "%s tried to infuse something infusable. What an absolute blunder",
+  "death.attack.punch": "%s broke their wrist. A huge blunder on their part, really. Tragically easy to avoid.",
+  "death.attack.spiderInstaKill": "%s suffered from severe arachnophobia. Perhaps they should consider throwing away their glove.",
+  "death.attack.fog": "%s suffocated in end fog. Too bad they didn't bring an ender shield. Hilarious, really.",
+  "entity.qolmod.police_entity": "Police",
+  "entity.qolmod.sink_entity": "Let that sink in"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "iii",
+    "iei",
+    "iii"
+  ],
+  "key":
+  {
+    "i":
+    {
+      "item": "qolmod:infuser"
+    },
+    "e":
+    {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result":
+  {
+    "item": "qolmod:ultra_infuser",
+    "count": 1
+  }
+}

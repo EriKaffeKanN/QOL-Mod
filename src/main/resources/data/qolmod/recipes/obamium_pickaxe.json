@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ooo",
+    " s ",
+    " s "
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "qolmod:obamium"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "qolmod:obamium_pickaxe",
+    "count": 1
+  }
+}
